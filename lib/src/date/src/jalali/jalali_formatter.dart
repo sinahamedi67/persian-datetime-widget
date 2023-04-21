@@ -15,7 +15,7 @@ class JalaliFormatter extends DateFormatter {
   /// Jalali month names
   static const List<String> _monthNames = [
     'فروردین',
-    'اردیبهشت',
+    'اردی',
     'خرداد',
     'تیر',
     'مرداد',
@@ -36,7 +36,7 @@ class JalaliFormatter extends DateFormatter {
     'سه شنبه',
     'چهار شنبه',
     'پنج شنبه',
-    'جمعه',
+    'آدینه',
   ];
 
   /// Jalali month name
